@@ -15,7 +15,5 @@ The second step involved data modeling in which the workbook.csv file was incorp
     The result should include one spreadsheet (workbook.csv) that contains a cleaned dataset
 
 The last part of the project included creating a presentation dataset (Task 3_Final Content Data set.csv) to populate the dataset with the top 5 content categories and thinking of various ways to present the data in a graphical format. A pie chart was best suited as there were 5 categories and their percentages were easier to analyze once the data was cleaned and analyzed. It appeared that animals were the most popular category.
-
-
 ### Conclusion
 After cleaning and modifying the datasets, it was clear that the category of "animals" had the most reactions (1,897). In order to find the most popular category, the COUNTIF formula was used in order to count the frequency of this category as well as the sum of the reactions. A pivot table was created where the group "Category" and "Count of Occurrences" was made to portray the data. The MAX function was used to find the highest value from the grouped counts. 
