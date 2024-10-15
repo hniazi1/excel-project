@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @hniazi1
-- 👀 I’m interested in data analytics and genomics research
-- 🌱 I’m currently progressing in my data analytics course 
-- 💞️ I’m looking to collaborate on some research projects
-- 📫 Contact me via LinkedIn! 
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: We are all 99.9% alike 
+# Project Details
+In this project, I had to clean, model, and analyze data to create insights to present to clients. There were multiple different datasets to work with containing different columns and values. The goal was to work around different focus questions in order to present data significant to the research question.
+## Setup
+The first step was to identify which datasets will be required to answer the business question- what are the top fice categories with the largest popularity.
+The data cleaning occurred in the ReactionTypes-2.csv file as it contained multiple errors and null values that needed to be cleaned and corrected. 
+    The data was cleaned by:
+        removing rows that had missing values
+        changing the data type of some values within a column
+        removing columns that are not relevant
 
-<!---
-hniazi1/hniazi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Conclusion
+
